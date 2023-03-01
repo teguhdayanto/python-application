@@ -7,3 +7,7 @@ Author: Teguh Dayanto
 Konversi Teks ke Suara (Voice/Speech)
 code: aplikasi_text_to_speech.ipynb
 dataset: -
+
+Penambangan Bit Coin
+code: aplikasi_menambang_bitcoin.ipynb
+dataset: -
