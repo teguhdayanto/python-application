@@ -8,6 +8,6 @@ Konversi Teks ke Suara (Voice/Speech)
 code: aplikasi_text_to_speech.ipynb
 dataset: -
 
-Penambangan Bit Coin
+Penambangan Bit Coin (Mining)
 code: aplikasi_menambang_bitcoin.ipynb
 dataset: -
